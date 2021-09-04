@@ -1,0 +1,35 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    color: honeydew;
+    max-width: 760px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url(pooltable.jpg);
+    background-size: cover;
+    font-size: xx-large;
+    
+}
+
+h1{
+    color: goldenrod;
+    font-weight: bolder;
+    /* font-size: larger; */
+}
+
+#message{
+    font-style: italic;
+    color: honeydew;
+}
+
+.start{
+    background-color: goldenrod;
+    color: #03460b;
+    width: 174px;
+    height: 36px;
+    font-weight: bolder;
+    
+    border-radius: 2px;
+    
+
+}
